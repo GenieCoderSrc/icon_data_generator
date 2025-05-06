@@ -16,6 +16,7 @@ void generateMaterialIconData() async {
   final iconsContent = await materialIconsFile.readAsLines();
   final iconMappings = <String, int>{};
 
+
   for (final line in iconsContent) {
     final trimmed = line.trim();
 
