@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:icon_data_generator/src/material_icons_mapper_generator.dart';
+import 'package:icon_data_generator/src/utils/generate_material_icon_data.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key, required this.title});
