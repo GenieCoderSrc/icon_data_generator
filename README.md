@@ -1,4 +1,4 @@
-# icon\_data\_generator
+# icon_data_generator
 
 A Dart code generator package to produce Flutter Material Icon mappings using `build_runner`. This tool enables automated generation of icon code point to name mappings, making it ideal for Flutter applications that require icon metadata at runtime or during development.
 
@@ -27,7 +27,7 @@ dev_dependencies:
   icon_data_generator:
     git:
       url: https://github.com/your-org/icon_data_generator.git
-  build_runner: ^2.4.0
+  build_runner: latest_version
 ```
 
 ---
