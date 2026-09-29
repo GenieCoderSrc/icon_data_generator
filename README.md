@@ -19,6 +19,8 @@ A Dart code generator package to produce Flutter Material Icon mappings using `b
 Add the following to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   flutter:
     sdk: flutter
